@@ -24,7 +24,7 @@ Name: [Your Name](https://github.com/<your_github_username>)
 Description: I'm <Your Name>.
 ```
 
-- You can look at [**Rupesh's Profile**](https://github.com/Code-Yacht/first-contribution/contributors/rupeshexe.md) as an example
+- You can look at [**Rupesh's Profile**](https://github.com/Code-Yacht/first-contribution/blob/main/contributors/rupeshexe.md) as an example
 - Scroll down and add a commit message as `added <your-github-username>.md`  and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 4. Raise a Pull Request:
