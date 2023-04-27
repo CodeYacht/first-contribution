@@ -2,7 +2,6 @@
 
 ## How to Contribute?
 
-
 1. Fork the project:
 
 - Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
@@ -26,6 +25,8 @@ Name: [Your Name](https://github.com/<your_github_username>)
 
 Description: I'm <Your Name>.
 ```
+
+- You can look at [**Rupesh's Profile**](https://github.com/Code-Yacht/first-contribution/contributors/rupeshexe.md) as an example
 - Scroll down and add a commit message as `added <your-github-username>.md`  and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 4. Raise a Pull Request:
