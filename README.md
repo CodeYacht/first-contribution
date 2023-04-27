@@ -19,9 +19,7 @@
 ```md
 Name: [Your Name](https://github.com/<your_github_username>)
 
-[Twitter](https://twitter.com/<your_twitter_username>)
-[GitHub](https://github.com/<your_github_username>)
-[LinkedIn](https://linkedin.com/in/<your_linkedin_username>)
+[Twitter](https://twitter.com/username) | [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username)
 
 Description: I'm <Your Name>.
 ```
@@ -85,9 +83,7 @@ You can ask questions by raising an [issue](https://github.com/Code-Yacht/first-
 ```md
 Name: [Your Name](https://github.com/<your_github_username>)
 
-[Twitter](https://twitter.com/<your_twitter_username>)
-[GitHub](https://github.com/<your_github_username>)
-[LinkedIn](https://linkedin.com/in/<your_linkedin_username>)
+[Twitter](https://twitter.com/username) | [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username)
 
 Description: I'm <Your Name>.
 ```
