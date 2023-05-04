@@ -21,7 +21,7 @@ Name: [Your Name](https://github.com/<your_github_username>)
 
 [Twitter](https://twitter.com/username) | [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username)
 
-Description: I'm <Your Name>.
+Description: <Anything you Like>.
 ```
 
 - You can look at [**Rupesh's Profile**](https://github.com/Code-Yacht/first-contribution/blob/main/contributors/rupeshexe.md) as an example
@@ -34,7 +34,7 @@ Description: I'm <Your Name>.
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new-branch-name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
-You can ask questions by raising an [issue](https://github.com/Code-Yacht/first-contribution/issues/new).
+You can look for your query on the [discussions](https://github.com/orgs/Code-Yacht/discussions) page or ask questions by raising an [issue](https://github.com/Code-Yacht/first-contribution/issues/new).
 
 ### Option 2. Complete this process on your computer (locally)
 
