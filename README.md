@@ -24,7 +24,7 @@ Name: [Your Name](https://github.com/<your_github_username>)
 Description: <Anything you Like>.
 ```
 
-- You can look at [**Rupesh's Profile**](https://github.com/Code-Yacht/first-contribution/blob/main/contributors/rupeshexe.md) as an example
+- You can look at [**This Profile**](https://github.com/Code-Yacht/first-contribution/blob/main/contributors/rupeshexe.md) as an example
 - Scroll down and add a commit message as `added <your-github-username>.md`  and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
 
 4. Raise a Pull Request:
@@ -34,105 +34,9 @@ Description: <Anything you Like>.
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new-branch-name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
-You can look for your query on the [discussions](https://github.com/orgs/Code-Yacht/discussions) page or ask questions by raising an [issue](https://github.com/Code-Yacht/first-contribution/issues/new).
-
-### Option 2. Complete this process on your computer (locally)
-
-1. Fork the project:
-
-- Click the gray <kbd>Fork</kbd> button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account
-
-2. Clone this project on your computer:
-
-- Go to your profile. You will find forked repo named **_first-contribution_**. go to the repo by clicking on it.
-- Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
-
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
-
-```bash
-  git clone https://github.com/YOUR_GITHUB_USERNAME/first-contribution.git
-```
-
-- Switch to the cloned folder. You can paste this command into the same terminal window.
-
-```bash
-  cd first-contribution
-```
-
-3. Create a new branch:
-
-- Your username would make a good branch because it's unique.
-
-```bash
-  git checkout -b <name-of-new-branch>
-```
-
-4. Edit:
-
-- Open the `Contributors` folder.
-```bash
-  cd contributors
-```
-
-- now create a new file named `<your-github-username>.md` using this command:
-```bash
-  touch <your-github-username>.md
-```
-
-- And add your details. Like this:
-```md
-Name: [Your Name](https://github.com/<your_github_username>)
-
-[Twitter](https://twitter.com/username) | [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username)
-
-Description: I'm <Your Name>.
-```
-
-5. Stage your changes:
-
-```bash
-  git add .
-```
-
-6. Commit the changes:
-
-```bash
-  git commit -m "Add <your-github-username>.md"
-```
-
-- Check the status of your repository.
-
-```bash
-  git status
-```
-
-- The response should be like this:
-
-```bash
-On branch <name-of-your-branch>
-nothing to commit, working tree clean
-```
-
-7. Pushing your repository to GitHub:
-
-```bash
-  git push origin <name-of-your-branch>
-```
-
-or
-
-```bash
-  git branch -M main
-  git push -u origin main
-```
-
-8. Raise a Pull Request:
-
-- On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
-
-- Click on that button, this will load a new page, Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button.
-  Note: A pull request allows us to merge your changes with the original project repo.
-
-- Your pull request will be reviewed and then eventually merged.
+If you feel stuck, You can look for your query on the [discussions](https://github.com/orgs/Code-Yacht/discussions) page or ask questions by raising an [issue](https://github.com/Code-Yacht/first-contribution/issues/new).
 
 Hurray! You successfully made your first contribution! 🎉
+
+# Meet our contributors 🚀
+<img src="https://contrib.rocks/image?repo=Code-Yacht/first-contribution"/>
