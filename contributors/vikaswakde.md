@@ -1,6 +1,6 @@
-Name: Vikas Wakde (https://github.com/vikaswakde)
+Name: [Vikas Wakde](https://github.com/vikaswakde)
 
-[Twitter](https://twitter.com/vikaswakdeos) | [GitHub](https://github.com/vikaswakde) | [LinkedIn]([https://linkedin.com/in/username](https://www.linkedin.com/in/vikas-wakde-a7b1b6227/))
+[Twitter](https://twitter.com/vikaswakdeos) | [GitHub](https://github.com/vikaswakde) | [LinkedIn](https://linkedin.com/in/vikas-wakde-a7b1b6227/)
 
 Description: I developed an interest in open source at early 2023,
        It was due to a YT video and I am thankful for it, 
