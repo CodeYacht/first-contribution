@@ -35,6 +35,3 @@ Description: <Anything you Like>.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
 If you feel stuck, You can look for your query on the [discussions](https://github.com/orgs/Code-Yacht/discussions) page or ask questions by raising an [issue](https://github.com/Code-Yacht/first-contribution/issues/new).
-
-# Meet our contributors 🚀
-<img src="https://contrib.rocks/image?repo=Code-Yacht/first-contribution"/>
