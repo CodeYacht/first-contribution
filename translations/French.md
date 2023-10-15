@@ -39,3 +39,7 @@ Assurez-vous d'avoir sélectionné la branche que vous avez créée.
 
 
 Si vous vous sentez bloqué, vous pouvez jeter un oeil au forum ici [discussions](https://github.com/orgs/Code-Yacht/discussions) ou poser des questions en envoyant un [issue](https://github.com/Code-Yacht/first-contribution/issues/new).
+
+## Merci à tous nos contributeurs ❤️
+
+<img src="https://contrib.rocks/image?repo=CodeYacht/first-contribution"/>
