@@ -1,5 +1,8 @@
 ![first-contribution](https://user-images.githubusercontent.com/91791257/234664400-33701a2e-4538-44dd-b4f7-66a88fb8a395.gif)
 
+## Translations
+You can read and follow this tutorial in other languages as well. Click [here](https://github.com/CodeYacht/first-contribution/tree/main/translations) to know more about translated versions.
+
 ## How to Contribute?
 
 1. Fork the project:
@@ -35,3 +38,7 @@ Description: <Anything you Like>.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
 If you feel stuck, You can look for your query on the [discussions](https://github.com/orgs/Code-Yacht/discussions) page or ask questions by raising an [issue](https://github.com/Code-Yacht/first-contribution/issues/new).
+
+## Thanks to all the contributors ❤️
+
+<img src="https://contrib.rocks/image?repo=CodeYacht/first-contribution"/>
