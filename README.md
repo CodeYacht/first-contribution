@@ -1,9 +1,9 @@
 ![first-contribution](https://user-images.githubusercontent.com/91791257/234664400-33701a2e-4538-44dd-b4f7-66a88fb8a395.gif)
 
-## Translations
+# Translations
 You can read and follow this tutorial in other languages as well. Click [here](https://github.com/CodeYacht/first-contribution/tree/main/translations) to know more about translated versions.
 
-## How to Contribute?
+# How to Contribute?
 
 1. Fork the project:
 
